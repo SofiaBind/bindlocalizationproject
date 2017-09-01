@@ -6,18 +6,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium ele
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium eleifend neque, ut ultricies massa rutrum eget. Nam sed ultrices nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec arcu nunc, posuere sit amet lorem at, convallis vulputate ex. Pellentesque rutrum est in elementum tristique. 
 
-_______________
 
 ### Gettinh Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
-####Prerequisites
+#### Prerequisites
 
 What things you need to install the software and how to install them
 
-###Step by step
+### Step by step
 
 Mauris dignissim lectus sit amet lectus commodo, ac sagittis massa dignissim. Phasellus magna massa, pharetra eu enim eu, auctor eleifend enim. Vestibulum in quam quis elit iaculis fringilla eget quis nisi.
 
