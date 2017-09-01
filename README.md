@@ -1,10 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub - BindTuning Localization Project
 
-You can use the [editor on GitHub](https://github.com/SofiaBind/bindlocalizationproject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium eleifend neque, ut ultricies massa rutrum eget. Nam sed ultrices nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec arcu nunc, posuere sit amet lorem at, convallis vulputate ex. Pellentesque rutrum est in elementum tristique. Mauris dignissim lectus sit amet lectus commodo, ac sagittis massa dignissim. Phasellus magna massa, pharetra eu enim eu, auctor eleifend enim. Vestibulum in quam quis elit iaculis fringilla eget quis nisi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Localization Project?
 
-### Markdown
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium eleifend neque, ut ultricies massa rutrum eget. Nam sed ultrices nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec arcu nunc, posuere sit amet lorem at, convallis vulputate ex. Pellentesque rutrum est in elementum tristique. 
+
+_______________
+
+### Gettinh Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
+####Prerequisites
+
+What things you need to install the software and how to install them
+
+###Step by step
+
+Mauris dignissim lectus sit amet lectus commodo, ac sagittis massa dignissim. Phasellus magna massa, pharetra eu enim eu, auctor eleifend enim. Vestibulum in quam quis elit iaculis fringilla eget quis nisi.
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
